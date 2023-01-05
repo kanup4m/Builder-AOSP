@@ -11,7 +11,7 @@ I tried to explain every step by comments! Try to read those thoroughly!
 
 ## Steps:
 
-1. Fork this repo
+1. Fork this rep
 2. Go to https://github.com/marketplace/cirrus-ci
 3. Pricing and setup > Public Repositories > Install it for free
 4. On the next page click Complete order and begin installation
